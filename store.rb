@@ -1,0 +1,1 @@
+Hello there from store file!
